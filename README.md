@@ -7,11 +7,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
 
 ---
-
-## Video Demonstration
-
-- ### [YouTube: How to Create, Work, and Resolve Tickets Within osTicket](https://www.youtube.com)
-
 ---
 
 ## Environments and Technologies Used
